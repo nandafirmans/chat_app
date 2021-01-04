@@ -6,7 +6,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class FcmHelper {
   static const _serverKey =
-      'key=AAAA7oIHMSk:APA91bFTeyaW2rFcT8hw7ydEPMp3amWam5s3TwFwyeaIdBBdvdLL4Ee4FKULf6xsFreKTMJVl8JGe3QMSDamNsed1vRN8m_C9bIK15TzPcmQpA5ZGAdrlEPvJrZj0xYUoIgUiRCcTZ27';
+      'key=';
 
   static Future<void> saveFcmTokenLocally(String token) async {
     try {
