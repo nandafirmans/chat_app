@@ -40,4 +40,4 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 
-/lib/utilities/fcm_helper.dart
+lib/utilities/fcm_helper.dart
